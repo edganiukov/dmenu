@@ -22,3 +22,8 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+Customizations
+--------------
+Patches:
+1. https://tools.suckless.org/dmenu/patches/line-height/
